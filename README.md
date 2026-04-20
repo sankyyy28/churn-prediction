@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🔮 Customer Churn Prediction System
 
 > End-to-end ML pipeline with BERT-based sentiment analysis, FastAPI serving, Docker containerization, and real-time model monitoring.
@@ -260,3 +261,6 @@ Data Science & Analytics
 ---
 
 *Built as a portfolio project demonstrating end-to-end ML system design.*
+=======
+# churn-prediction
+>>>>>>> c024760c7f67095091d8f998693ebb1852867499
