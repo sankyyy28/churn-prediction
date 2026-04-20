@@ -256,11 +256,11 @@ tests/test_churn_api.py::TestModelAccuracy::test_precision_above_threshold PASSE
 **[Your Name]**  
 Data Science & Analytics  
 📧 sonparatesanket28@gmail.com
+
 🔗 [LinkedIn](www.linkedin.com/in/sanket-sonparate-018350260) | [GitHub](https://github.com/sankyyy28)
 
 ---
 
 *Built as a portfolio project demonstrating end-to-end ML system design.*
 =======
-# churn-prediction
->>>>>>> c024760c7f67095091d8f998693ebb1852867499
+
