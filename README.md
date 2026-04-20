@@ -253,7 +253,7 @@ tests/test_churn_api.py::TestModelAccuracy::test_precision_above_threshold PASSE
 
 ## 👤 Author
 
-**[Your Name]**  
+**Sanket Sonparate**  
 Data Science & Analytics  
 📧 sonparatesanket28@gmail.com
 
